@@ -1,0 +1,1 @@
+("7.8" racket ("7d24cc16469c608ef6d4a44a88d071068ecbde67" . "afd4b0ceef67510be0d5e8cda8ac99e03c3ea288") #"/Users/cemkilinc/Desktop/Project3DataStructures/lang.scm" #"/Users/cemkilinc/Desktop/Project3DataStructures/store.scm" (collects #"eopl" #"eopl.rkt") (collects #"errortrace" #"errortrace-key.rkt"))
